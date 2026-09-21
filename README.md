@@ -20,6 +20,6 @@
 | --- | --- | --- |
 | Aula Basica https://github.com/PauloRicardo-hub/PauloRicardo-hub.git
 ## Como Falar Comigo
-- [LinkedIn] 
+- [LinkedIn] https://www.linkedin.com/in/paulo-ricardo-5818273a7/ 
 - [pauloricardo219817@gmail.com]
-- 
+  
